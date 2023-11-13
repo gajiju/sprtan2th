@@ -1,0 +1,14 @@
+C:\studentcs\dungeon\dungeon\bin\Debug\net6.0\dungeon.exe
+C:\studentcs\dungeon\dungeon\bin\Debug\net6.0\dungeon.deps.json
+C:\studentcs\dungeon\dungeon\bin\Debug\net6.0\dungeon.runtimeconfig.json
+C:\studentcs\dungeon\dungeon\bin\Debug\net6.0\dungeon.dll
+C:\studentcs\dungeon\dungeon\bin\Debug\net6.0\dungeon.pdb
+C:\studentcs\dungeon\dungeon\obj\Debug\net6.0\dungeon.GeneratedMSBuildEditorConfig.editorconfig
+C:\studentcs\dungeon\dungeon\obj\Debug\net6.0\dungeon.AssemblyInfoInputs.cache
+C:\studentcs\dungeon\dungeon\obj\Debug\net6.0\dungeon.AssemblyInfo.cs
+C:\studentcs\dungeon\dungeon\obj\Debug\net6.0\dungeon.csproj.CoreCompileInputs.cache
+C:\studentcs\dungeon\dungeon\obj\Debug\net6.0\dungeon.dll
+C:\studentcs\dungeon\dungeon\obj\Debug\net6.0\refint\dungeon.dll
+C:\studentcs\dungeon\dungeon\obj\Debug\net6.0\dungeon.pdb
+C:\studentcs\dungeon\dungeon\obj\Debug\net6.0\dungeon.genruntimeconfig.cache
+C:\studentcs\dungeon\dungeon\obj\Debug\net6.0\ref\dungeon.dll
